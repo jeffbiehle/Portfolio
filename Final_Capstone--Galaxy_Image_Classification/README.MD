@@ -1,5 +1,5 @@
 ## Galaxy Image Classification
-*Using neural networks on galaxy images to predict features and types of galaxies*
+#### *Using neural networks on galaxy images to predict features and types of galaxies*
 
 The universe is an unimaginably large place. In our galaxy alone, there are between 100 billion and 400 billion stars (there are so many and they are packed so densely that this is the closest range astronomers can give for its size). And there are approximately 100 billion galaxies in the universe, each with about 100 billion stars. That's 10,000,000,000,000,000,000,000 stars, more than all the grains of sand on all of earth's beaches!
 
