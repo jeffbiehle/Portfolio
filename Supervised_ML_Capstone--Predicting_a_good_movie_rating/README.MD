@@ -1,2 +1,4 @@
-## Unit 3 Capstone -- Predicting whether or not a movie is "good". 
-I've been a movie fanatic since I was a kid and have quite a wealth of movie trivia knowledge. My mentor (Artem Yankov) pointed me to this dataset on Kaggle as a suggestion for this capstone, in which I will be predicting whether or not a movie is "good" based on its IMDb score. Generally a movie with an IMDb rating of 7.0 or higher is considered good. This dataset covers over 5000 movies from across the globe, with over 100 years worth of movie data. 
+## Supervised ML Capstone -- Predicting whether or not a movie rating is "good". 
+I've been a movie fanatic since I was a kid and have quite a wealth of movie trivia knowledge. My mentor (Artem Yankov) pointed me to this dataset on Kaggle as a suggestion for this capstone, in which I will be predicting whether or not a movie rating is "good" based on its IMDb score. Generally a movie with an IMDb rating of 7.0 or higher is considered good. 
+
+This dataset covers over 5000 movies from across the globe, with over 100 years worth of movie data, with over 28 variables such as box office revenue, budget, Facebook likes, country of origin, etc.  I used multiple ML methods (Random Forest, Logistic Regression, Gradient Boosting) and compared them to get the best score.  See the presentation for more details on how this was accomplished.
