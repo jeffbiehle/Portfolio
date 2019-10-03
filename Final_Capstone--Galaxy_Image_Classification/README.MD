@@ -4,7 +4,7 @@ The universe is an unimaginably large place. In our galaxy alone, there are betw
 
 This project is based on a data set from an old Kaggle competition that was sponsored by the Galaxy Zoo Project, a crowd-source volunteer project that was started in 2007, to help classify hundreds of thousands of galaxy images that had been collected by multiple research telescopes around the world. The dataset I'm using contains 60,000 images of galaxies and I will be performing multiple classifications of types and features, using neural networks via TensorFlow/Keras. The data set includes a spreadsheet of numerical averages of 11 high-level classes split into 37 separate variables of galaxy types/features. Each galaxy has an average score for each class based on the respondents' replies.
 
-Instead of trying to compute the numbers in the spreadsheet themselves, I converted each high-level class to categorical values.  More details on this in the presentation).
+Instead of trying to compute the numbers in the spreadsheet themselves, I converted each high-level class to categorical values (more details on this in the presentation).
 
 My project takes the data set and makes predictions on multiple categories:
 
